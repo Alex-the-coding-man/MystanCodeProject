@@ -1,6 +1,6 @@
 """
 File: MoveToTheEnd.py
-Name:Alex
+Name: Alex
 ------------------------
 This file shows how to use while loop
 to walk to the end of a certain row in
@@ -16,6 +16,7 @@ def main():
     """
     while front_is_clear():
         move()
+    # When front is not clear
 
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
